@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Daria!
 
 ## 🛠 Skills
-### Programming Languages:
+### Programming Languages & Tools:
 - Python
-- SQL
+- PostgreSQL
+- Git
+- PySpark
 
 ### Libraries:
 - Pandas
@@ -12,11 +14,6 @@
 - TensorFlow
 - Keras
 - PyTorch
-
-### Tools:
-- PostgreSQL
-- Git
-- PySpark
 
 ## 📫 Contact Me
 
