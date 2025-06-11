@@ -27,7 +27,7 @@ I worked as a quality engineer in pharmaceutical production, and now i'm pursuin
   <a href="https://t.me/dariapodvorotova">
     <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white"/>
   </a>
-  <a href="daria.podvorotova@gmail.com">
+  <a href="mailto:daria.podvorotova@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-red?logo=gmail&logoColor=white"/>
   </a>
 </div>
