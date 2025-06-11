@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Daria!
 
+I worked as a quality engineer in pharmaceutical production, and now i'm pursuing a career in machine learning.
+
 ## 🛠 Skills
 
 ### Programming Languages & Tools:
